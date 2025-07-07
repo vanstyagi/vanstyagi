@@ -52,3 +52,19 @@
 > _"Still building projects... But the storm’s coming."_ 💻🌪️
 
 ---
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanstyagi&show_icons=true&theme=radical" alt="Vansh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanstyagi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanstyagi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
