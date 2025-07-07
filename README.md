@@ -35,8 +35,8 @@
 
 ### 🔗 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/vansh-tyagi-3a739a247/])  
-- 🐦 Twitter (inactive but soon... maybe 🤷‍♂️)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/vansh-tyagi-3a739a247)
+- 🐦 Twitter (inactive but soon... maybe 🤷‍♂️)
 - 📧 Email? DM on LinkedIn 😈
 
 ---
