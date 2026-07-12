@@ -6,7 +6,7 @@
 
 ### 🚀 Building Intelligent Systems & Solving Real Problems
 
-*Computer Science Student • Backend Developer • ML Engineer • DSA Enthusiast*
+*B.Tech CSE (2026) Graduate • Backend Developer • ML Engineer • DSA Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-tyagi-3a739a247)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vansh01Tyagi/)
@@ -22,17 +22,17 @@
 class VanshTyagi:
     def __init__(self):
         self.role     = "Backend Developer & ML Engineer"
-        self.stack    = ["Python", "FastAPI", "SQL", "scikit-learn", "Gemini API"]
-        self.status   = "Final Year CSE → Actively seeking SDE/Backend roles"
+        self.stack    = ["Python", "FastAPI", "LangGraph", "SQL", "Gemini API"]
+        self.status   = "B.Tech CSE Graduate (2026) → Actively seeking SDE/Backend roles"
         self.location = "Delhi, India 🇮🇳"
 
     def what_i_build(self):
         return "End-to-end systems — raw data to production APIs, all in Python"
 ```
 
-I'm a final-year **Computer Science & IOT** student who leans hard into **backend systems** and **ML pipelines**. I care about building things that actually work in production — not just things that demo well.
+I'm a **2026 B.Tech Computer Science & IoT graduate** who leans hard into **backend systems** and **ML pipelines**. I care about building things that actually work in production — not just things that demo well.
 
-Currently focused on: **DSA depth**, **FastAPI**, **advanced SQL**, and making ML models that don't just train — they deploy.
+Currently focused on: **DSA depth**, **FastAPI**, **advanced SQL**, and shipping ML models that don't just train — they deploy.
 
 ---
 
@@ -48,15 +48,47 @@ Currently focused on: **DSA depth**, **FastAPI**, **advanced SQL**, and making M
 |----------|-------------|
 | **Languages** | Python · SQL · Java |
 | **Backend** | FastAPI · Flask · REST APIs |
-| **ML & Data** | scikit-learn · XGBoost · Pandas · NumPy · Sentence Transformers |
+| **AI / Orchestration** | LangGraph · Google Gemini API · Sentence Transformers |
+| **ML & Data** | scikit-learn · XGBoost · Pandas · NumPy |
 | **Databases** | PostgreSQL · MySQL |
-| **Tools** | Git · Linux · Jupyter · VS Code |
+| **Tools** | Git · Docker · Linux · Jupyter · VS Code |
 
 </div>
 
 ---
 
 ## 🔥 Featured Projects
+
+### 🤖 [HireLens – Multi-Agent Resume & Interview Coach](https://github.com/vanstyagi/HireLens)
+> **A 6-agent LLM pipeline that parses resumes, finds gaps, and runs mock interviews**
+
+A multi-agent system built with **LangGraph** where specialized agents collaborate — parsing the resume and job description, running semantic gap analysis, rewriting weak bullet points, generating tailored interview questions, and simulating a live interview with scored feedback.
+
+**🔗 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/vansh01tyagi/HireLens)**
+
+<table>
+<tr>
+<td width="50%">
+
+**🏗️ Architecture**
+- 6 specialized agents orchestrated via LangGraph
+- Semantic skill-matching with Sentence Transformers
+- Stateful conversational interview simulator
+- Dockerized, deployed on Hugging Face Spaces
+
+</td>
+<td width="50%">
+
+**⚡ Tech Stack**
+- Python · LangGraph · FastAPI
+- Streamlit · Google Gemini API
+- Sentence Transformers · Docker
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 🤖 [Policy LLM Decision Engine](https://github.com/vanstyagi/policy-llm-decision-engine)
 > **Automated document intelligence system — insurance · legal · HR**
@@ -90,47 +122,6 @@ python src/main.py "46-year-old male, knee surgery in Pune, 3-month policy"
 </td>
 </tr>
 </table>
-
----
-
-### 📊 [Employee Performance ML Engine](https://github.com/vanstyagi/employee_performance_ml)
-> **End-to-end ML pipeline with Flask web interface**
-
-Built a complete model training and comparison pipeline with a live **Flask web app** for real-time productivity predictions — covering EDA, feature engineering, model evaluation, and deployment.
-
-<table>
-<tr>
-<td width="50%">
-
-**📈 What's Inside**
-- Exploratory Data Analysis
-- Feature importance visualization
-- Multi-model comparison dashboard
-- Real-time prediction via web UI
-
-</td>
-<td width="50%">
-
-**⚡ Tech Stack**
-- Python · Pandas · NumPy
-- scikit-learn · XGBoost
-- Flask · Matplotlib · Seaborn
-
-</td>
-</tr>
-</table>
-
----
-
-## 💪 DSA & Problem Solving
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vansh01Tyagi?theme=dark&font=Noto%20Sans)
-
-</div>
-
-**Active topics:** Arrays · Strings · Two Pointers · Sliding Window · Hashing · SQL Queries
 
 ---
 
