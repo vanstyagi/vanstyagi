@@ -9,7 +9,6 @@
 *B.Tech CSE (2026) Graduate • Backend Developer • ML Engineer • DSA Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-tyagi-3a739a247)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vansh01Tyagi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtyagi722@gmail.com)
 
 </div>
