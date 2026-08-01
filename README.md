@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Vansh Tyagi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%9A%A1;ML+Engineer+%F0%9F%A7%A0;Python+%7C+FastAPI+%7C+SQL+%7C+LLMs;Building+systems+that+think+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%9A%A1;Multi-Agent+LLM+Systems+%F0%9F%A4%96;Python+%7C+FastAPI+%7C+SQL+%7C+LangGraph;Shipping+systems%2C+not+just+demos" alt="Typing SVG" />
 
-### 🚀 Building Intelligent Systems & Solving Real Problems
+### 🚀 Building Intelligent Backend Systems
 
-*B.Tech CSE (2026) Graduate • Backend Developer • ML Engineer • DSA Enthusiast*
+*B.Tech CSE (2026) Graduate • Backend Developer • ML Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-tyagi-3a739a247)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtyagi722@gmail.com)
@@ -153,11 +153,9 @@ python src/main.py "46-year-old male, knee surgery in Pune, 3-month policy"
 </td>
 <td width="50%">
 
-### 🧭 **What Drives Me**
+### 🧭 **Focus**
 
-> *"The gap between a trained model and a working product is where real engineering lives."*
-
-I focus on closing that gap — building backends that serve ML, and ML that's actually usable.
+Closing the gap between a trained model and a working product — backends that serve ML, and ML that's actually usable in production.
 
 </td>
 </tr>
